@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project Ignore
+.DS_Store
+/crypto/config.py
+/data/answer.json
+
